@@ -1,0 +1,7 @@
+{
+  "name": "mobiscroll-v5-kitchen-sink-ionic-app-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
