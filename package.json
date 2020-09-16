@@ -6,6 +6,7 @@
     "@capacitor/core": "2.4.0",
     "@ionic/react": "^5.0.7",
     "@ionic/react-router": "^5.0.7",
+    "@mobiscroll/react": "^5.0.0-beta3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^8.0.3",
@@ -45,7 +46,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.4.0"
+    "@capacitor/cli": "2.4.0",
+    "cypress-shadow-dom": "^1.4.1"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic kitchensink app"
 }
